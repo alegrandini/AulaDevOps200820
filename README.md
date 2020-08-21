@@ -1,4 +1,3 @@
 # AulaDevOps200820
-Aula de DevOps
-
+Aula de DevOps<br>
 Alexandre Grandini
